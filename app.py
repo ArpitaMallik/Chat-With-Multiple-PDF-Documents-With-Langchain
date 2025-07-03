@@ -271,12 +271,11 @@ def main():
             if user_question:
                 user_input(user_question)
     else:
-        st.info("👈 Please upload and process PDF documents using the sidebar first.")
+        st.info("Please upload and process PDF documents using the sidebar first.")
         
         # Add a demo image or illustration
         col1, col2, col3 = st.columns([1, 2, 1])
-        with col2:
-            st.image("https://img.icons8.com/color/480/000000/pdf.png", width=180)
+       
 
 # Run the app
 if __name__ == "__main__":
