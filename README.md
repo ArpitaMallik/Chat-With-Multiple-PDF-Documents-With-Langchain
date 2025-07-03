@@ -1,6 +1,6 @@
-# 📚 ChatPDF – Chat with Your PDF Documents
-
-**PDF Genius** is a powerful Streamlit-based web app that allows you to upload PDF files, process their content using advanced text embeddings, and interactively ask questions based on the content — powered by **Gemini 1.5 Flash** and **FAISS** vector search.
+# ChatPDF – Chat with Your PDF Documents
+[![Streamlit App](https://img.shields.io/badge/🚀%20Try%20App-Click%20Here-brightgreen?logo=streamlit)](https://chatpdf-using-langchain-ch9am4nnyzryzajc9v6vg2.streamlit.app/)
+**ChatPDF** is a powerful Streamlit-based web app that allows you to upload PDF files, process their content using advanced text embeddings, and interactively ask questions based on the content — powered by **Gemini 1.5 Flash** and **FAISS** vector search.
 
 ---
 
